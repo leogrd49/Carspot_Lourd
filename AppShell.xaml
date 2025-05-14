@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Shell
+    x:Class="CarspotLourd.AppShell"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:local="clr-namespace:CarspotLourd"
+    xmlns:pages="clr-namespace:CarspotLourd.Components.Pages">
+
+    <FlyoutItem Title="Home" Icon="home_icon.png">
+        <ShellContent
+            Title="Home"
+            ContentTemplate="{DataTemplate local:MainPage}"
+            Route="MainPage" />
+    </FlyoutItem>
+    
+    <FlyoutItem Title="Carspot Feed" Icon="feed_icon.png">
+        <ShellContent
+            Title="Carspot Feed"
+            ContentTemplate="{DataTemplate pages:CarspotFeed}"
+            Route="carspot-feed" />
+    </FlyoutItem>
+    
+    <FlyoutItem Title="Instagram Style" Icon="instagram_icon.png">
+        <ShellContent
+            Title="Instagram Style"
+            ContentTemplate="{DataTemplate pages:InstagramStyleFeed}"
+            Route="instagram-feed" />
+    </FlyoutItem>
+
+</Shell>
