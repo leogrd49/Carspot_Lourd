@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "diz3tQb4FJ3rnuEPMCzjYeJG2zQN9vpkPJiiDB1j16s=",
+  "Hash": "ksKu8boQRMKDBuV4y8KrdNDdveIChtLCaWL0W0YebRs=",
   "Source": "CarspotLourd",
   "BasePath": "/",
   "Mode": "Root",
@@ -10,17 +10,17 @@
     {
       "Name": "CarspotLourd\\wwwroot",
       "Source": "CarspotLourd",
-      "ContentRoot": "C:\\MAIN\\DEV\\Test Lourd BTS\\CarspotLOURD\\wwwroot\\",
+      "ContentRoot": "C:\\Main\\All\\Cour\\BTS\\test_carspotlourd\\wwwroot\\",
       "BasePath": "/",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\MAIN\\DEV\\Test Lourd BTS\\CarspotLOURD\\wwwroot\\css\\app.css",
+      "Identity": "C:\\Main\\All\\Cour\\BTS\\test_carspotlourd\\wwwroot\\css\\app.css",
       "SourceId": "CarspotLourd",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\MAIN\\DEV\\Test Lourd BTS\\CarspotLOURD\\wwwroot\\",
+      "ContentRoot": "C:\\Main\\All\\Cour\\BTS\\test_carspotlourd\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "css/app#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -38,10 +38,10 @@
       "OriginalItemSpec": "wwwroot\\css\\app.css"
     },
     {
-      "Identity": "C:\\MAIN\\DEV\\Test Lourd BTS\\CarspotLOURD\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\Main\\All\\Cour\\BTS\\test_carspotlourd\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "SourceId": "CarspotLourd",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\MAIN\\DEV\\Test Lourd BTS\\CarspotLOURD\\wwwroot\\",
+      "ContentRoot": "C:\\Main\\All\\Cour\\BTS\\test_carspotlourd\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "css/bootstrap/bootstrap.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -59,10 +59,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\MAIN\\DEV\\Test Lourd BTS\\CarspotLOURD\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\Main\\All\\Cour\\BTS\\test_carspotlourd\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "CarspotLourd",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\MAIN\\DEV\\Test Lourd BTS\\CarspotLOURD\\wwwroot\\",
+      "ContentRoot": "C:\\Main\\All\\Cour\\BTS\\test_carspotlourd\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "css/bootstrap/bootstrap.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -80,10 +80,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\MAIN\\DEV\\Test Lourd BTS\\CarspotLOURD\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Main\\All\\Cour\\BTS\\test_carspotlourd\\wwwroot\\css\\site.css",
       "SourceId": "CarspotLourd",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\MAIN\\DEV\\Test Lourd BTS\\CarspotLOURD\\wwwroot\\",
+      "ContentRoot": "C:\\Main\\All\\Cour\\BTS\\test_carspotlourd\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "css/site#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -94,17 +94,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "ijt87ci9wy",
-      "Integrity": "jr7QzXTjHvdjxnxHnxthNhtykGOnorm7hI5EGRRDW1k=",
+      "Fingerprint": "zpsvb282au",
+      "Integrity": "J9YMkRd9LEdDX/J8JXnyfLnEruW+iqSQFBIRCaARBeU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\MAIN\\DEV\\Test Lourd BTS\\CarspotLOURD\\wwwroot\\favicon.png",
+      "Identity": "C:\\Main\\All\\Cour\\BTS\\test_carspotlourd\\wwwroot\\favicon.png",
       "SourceId": "CarspotLourd",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\MAIN\\DEV\\Test Lourd BTS\\CarspotLOURD\\wwwroot\\",
+      "ContentRoot": "C:\\Main\\All\\Cour\\BTS\\test_carspotlourd\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "favicon#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -122,10 +122,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.png"
     },
     {
-      "Identity": "C:\\MAIN\\DEV\\Test Lourd BTS\\CarspotLOURD\\wwwroot\\index.html",
+      "Identity": "C:\\Main\\All\\Cour\\BTS\\test_carspotlourd\\wwwroot\\index.html",
       "SourceId": "CarspotLourd",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\MAIN\\DEV\\Test Lourd BTS\\CarspotLOURD\\wwwroot\\",
+      "ContentRoot": "C:\\Main\\All\\Cour\\BTS\\test_carspotlourd\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "index#[.{fingerprint}]?.html",
       "AssetKind": "All",
@@ -136,8 +136,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "2coftgsa4o",
-      "Integrity": "8uUklxhfoGkuOdfpkrcz0hfS5JanUnb9GG41NaE39VQ=",
+      "Fingerprint": "2niiaqfn3c",
+      "Integrity": "3tD+6/bGEu5v+T+7vIVC065sJrFA68acQrDv5v76Fxo=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\index.html"
@@ -146,7 +146,7 @@
   "Endpoints": [
     {
       "Route": "css/app.css",
-      "AssetFile": "C:\\MAIN\\DEV\\Test Lourd BTS\\CarspotLOURD\\wwwroot\\css\\app.css",
+      "AssetFile": "C:\\Main\\All\\Cour\\BTS\\test_carspotlourd\\wwwroot\\css\\app.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -167,7 +167,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Apr 2025 11:34:22 GMT"
+          "Value": "Sun, 18 May 2025 18:47:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -183,7 +183,7 @@
     },
     {
       "Route": "css/app.dex3usdpik.css",
-      "AssetFile": "C:\\MAIN\\DEV\\Test Lourd BTS\\CarspotLOURD\\wwwroot\\css\\app.css",
+      "AssetFile": "C:\\Main\\All\\Cour\\BTS\\test_carspotlourd\\wwwroot\\css\\app.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -204,7 +204,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Apr 2025 11:34:22 GMT"
+          "Value": "Sun, 18 May 2025 18:47:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -228,7 +228,7 @@
     },
     {
       "Route": "css/bootstrap/bootstrap.min.6gzpyzhau4.css",
-      "AssetFile": "C:\\MAIN\\DEV\\Test Lourd BTS\\CarspotLOURD\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "AssetFile": "C:\\Main\\All\\Cour\\BTS\\test_carspotlourd\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -249,7 +249,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Apr 2025 11:34:22 GMT"
+          "Value": "Sun, 18 May 2025 18:47:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -273,7 +273,7 @@
     },
     {
       "Route": "css/bootstrap/bootstrap.min.css",
-      "AssetFile": "C:\\MAIN\\DEV\\Test Lourd BTS\\CarspotLOURD\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "AssetFile": "C:\\Main\\All\\Cour\\BTS\\test_carspotlourd\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -294,7 +294,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Apr 2025 11:34:22 GMT"
+          "Value": "Sun, 18 May 2025 18:47:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -310,7 +310,7 @@
     },
     {
       "Route": "css/bootstrap/bootstrap.min.css.8inm30yfxf.map",
-      "AssetFile": "C:\\MAIN\\DEV\\Test Lourd BTS\\CarspotLOURD\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "AssetFile": "C:\\Main\\All\\Cour\\BTS\\test_carspotlourd\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -331,7 +331,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Apr 2025 11:34:22 GMT"
+          "Value": "Sun, 18 May 2025 18:47:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -355,7 +355,7 @@
     },
     {
       "Route": "css/bootstrap/bootstrap.min.css.map",
-      "AssetFile": "C:\\MAIN\\DEV\\Test Lourd BTS\\CarspotLOURD\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "AssetFile": "C:\\Main\\All\\Cour\\BTS\\test_carspotlourd\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -376,7 +376,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Apr 2025 11:34:22 GMT"
+          "Value": "Sun, 18 May 2025 18:47:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -392,7 +392,7 @@
     },
     {
       "Route": "css/site.css",
-      "AssetFile": "C:\\MAIN\\DEV\\Test Lourd BTS\\CarspotLOURD\\wwwroot\\css\\site.css",
+      "AssetFile": "C:\\Main\\All\\Cour\\BTS\\test_carspotlourd\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -401,7 +401,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "4557"
+          "Value": "4743"
         },
         {
           "Name": "Content-Type",
@@ -409,11 +409,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"jr7QzXTjHvdjxnxHnxthNhtykGOnorm7hI5EGRRDW1k=\""
+          "Value": "\"J9YMkRd9LEdDX/J8JXnyfLnEruW+iqSQFBIRCaARBeU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Apr 2025 12:04:58 GMT"
+          "Value": "Sun, 18 May 2025 18:47:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -423,13 +423,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-jr7QzXTjHvdjxnxHnxthNhtykGOnorm7hI5EGRRDW1k="
+          "Value": "sha256-J9YMkRd9LEdDX/J8JXnyfLnEruW+iqSQFBIRCaARBeU="
         }
       ]
     },
     {
-      "Route": "css/site.ijt87ci9wy.css",
-      "AssetFile": "C:\\MAIN\\DEV\\Test Lourd BTS\\CarspotLOURD\\wwwroot\\css\\site.css",
+      "Route": "css/site.zpsvb282au.css",
+      "AssetFile": "C:\\Main\\All\\Cour\\BTS\\test_carspotlourd\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -438,7 +438,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "4557"
+          "Value": "4743"
         },
         {
           "Name": "Content-Type",
@@ -446,11 +446,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"jr7QzXTjHvdjxnxHnxthNhtykGOnorm7hI5EGRRDW1k=\""
+          "Value": "\"J9YMkRd9LEdDX/J8JXnyfLnEruW+iqSQFBIRCaARBeU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Apr 2025 12:04:58 GMT"
+          "Value": "Sun, 18 May 2025 18:47:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -460,7 +460,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "ijt87ci9wy"
+          "Value": "zpsvb282au"
         },
         {
           "Name": "label",
@@ -468,13 +468,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-jr7QzXTjHvdjxnxHnxthNhtykGOnorm7hI5EGRRDW1k="
+          "Value": "sha256-J9YMkRd9LEdDX/J8JXnyfLnEruW+iqSQFBIRCaARBeU="
         }
       ]
     },
     {
       "Route": "favicon.ifv42okdf2.png",
-      "AssetFile": "C:\\MAIN\\DEV\\Test Lourd BTS\\CarspotLOURD\\wwwroot\\favicon.png",
+      "AssetFile": "C:\\Main\\All\\Cour\\BTS\\test_carspotlourd\\wwwroot\\favicon.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -495,7 +495,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Apr 2025 11:34:22 GMT"
+          "Value": "Sun, 18 May 2025 18:47:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -519,7 +519,7 @@
     },
     {
       "Route": "favicon.png",
-      "AssetFile": "C:\\MAIN\\DEV\\Test Lourd BTS\\CarspotLOURD\\wwwroot\\favicon.png",
+      "AssetFile": "C:\\Main\\All\\Cour\\BTS\\test_carspotlourd\\wwwroot\\favicon.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -540,7 +540,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Apr 2025 11:34:22 GMT"
+          "Value": "Sun, 18 May 2025 18:47:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -555,8 +555,8 @@
       ]
     },
     {
-      "Route": "index.2coftgsa4o.html",
-      "AssetFile": "C:\\MAIN\\DEV\\Test Lourd BTS\\CarspotLOURD\\wwwroot\\index.html",
+      "Route": "index.2niiaqfn3c.html",
+      "AssetFile": "C:\\Main\\All\\Cour\\BTS\\test_carspotlourd\\wwwroot\\index.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -565,7 +565,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1105"
+          "Value": "1135"
         },
         {
           "Name": "Content-Type",
@@ -573,11 +573,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"8uUklxhfoGkuOdfpkrcz0hfS5JanUnb9GG41NaE39VQ=\""
+          "Value": "\"3tD+6/bGEu5v+T+7vIVC065sJrFA68acQrDv5v76Fxo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Apr 2025 12:05:07 GMT"
+          "Value": "Sun, 18 May 2025 18:47:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -587,7 +587,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "2coftgsa4o"
+          "Value": "2niiaqfn3c"
         },
         {
           "Name": "label",
@@ -595,13 +595,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-8uUklxhfoGkuOdfpkrcz0hfS5JanUnb9GG41NaE39VQ="
+          "Value": "sha256-3tD+6/bGEu5v+T+7vIVC065sJrFA68acQrDv5v76Fxo="
         }
       ]
     },
     {
       "Route": "index.html",
-      "AssetFile": "C:\\MAIN\\DEV\\Test Lourd BTS\\CarspotLOURD\\wwwroot\\index.html",
+      "AssetFile": "C:\\Main\\All\\Cour\\BTS\\test_carspotlourd\\wwwroot\\index.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -610,7 +610,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1105"
+          "Value": "1135"
         },
         {
           "Name": "Content-Type",
@@ -618,11 +618,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"8uUklxhfoGkuOdfpkrcz0hfS5JanUnb9GG41NaE39VQ=\""
+          "Value": "\"3tD+6/bGEu5v+T+7vIVC065sJrFA68acQrDv5v76Fxo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Apr 2025 12:05:07 GMT"
+          "Value": "Sun, 18 May 2025 18:47:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -632,7 +632,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-8uUklxhfoGkuOdfpkrcz0hfS5JanUnb9GG41NaE39VQ="
+          "Value": "sha256-3tD+6/bGEu5v+T+7vIVC065sJrFA68acQrDv5v76Fxo="
         }
       ]
     }

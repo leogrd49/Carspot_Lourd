@@ -1,1 +1,1 @@
-C:\MAIN\DEV\Test Lourd BTS\CarspotLOURD\CarspotLourd.csproj;x64
+C:\Main\All\Cour\BTS\test_carspotlourd\CarspotLourd.csproj;x64
