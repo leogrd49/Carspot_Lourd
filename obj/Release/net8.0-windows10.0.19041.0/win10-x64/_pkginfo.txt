@@ -1,1 +1,1 @@
-C:\Main\All\Cour\BTS\test_carspotlourd\bin\Release\net8.0-windows10.0.19041.0\win10-x64\AppPackages\CarspotLourd_1.0.0.0_Test\CarspotLourd_1.0.0.0_x64.msix
+C:\MAIN\BTS\App\Carspot_Lourd\bin\Release\net8.0-windows10.0.19041.0\win10-x64\AppPackages\CarspotLourd_1.0.1.0_Test\CarspotLourd_1.0.1.0_x64.msix

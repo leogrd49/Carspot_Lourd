@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CarspotLourd</name>
+    </assembly>
+    <members>
+        <member name="M:CarspotLourd.Services.InstagramFeedService.GenerateInstagramStyleFeedAsync">
+            <summary>
+            Génère un feed HTML au style Instagram avec des données réelles
+            </summary>
+        </member>
+        <member name="M:CarspotLourd.Services.InstagramFeedService.GetRealDataAsync">
+            <summary>
+            Récupère les données réelles depuis la base de données Supabase
+            </summary>
+        </member>
+        <member name="M:CarspotLourd.Services.InstagramFeedService.GenerateMockPosts">
+            <summary>
+            Génère des données fictives pour le feed
+            </summary>
+        </member>
+        <member name="M:CarspotLourd.Services.InstagramFeedService.GenerateHtmlFeed(System.Collections.Generic.List{CarspotLourd.Services.CarPost})">
+            <summary>
+            Génère le HTML pour le feed Instagram
+            </summary>
+        </member>
+        <member name="T:CarspotLourd.Services.CarPost">
+            <summary>
+            Classe représentant un post dans le feed Instagram
+            </summary>
+        </member>
+    </members>
+</doc>

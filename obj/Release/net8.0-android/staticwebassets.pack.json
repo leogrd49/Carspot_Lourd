@@ -1,27 +1,27 @@
 {
   "Files": [
     {
-      "Id": "C:\\Main\\All\\Cour\\BTS\\test_carspotlourd\\wwwroot\\css\\app.css",
+      "Id": "C:\\MAIN\\BTS\\App\\Carspot_Lourd\\wwwroot\\css\\app.css",
       "PackagePath": "staticwebassets\\css\\app.css"
     },
     {
-      "Id": "C:\\Main\\All\\Cour\\BTS\\test_carspotlourd\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Id": "C:\\MAIN\\BTS\\App\\Carspot_Lourd\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Main\\All\\Cour\\BTS\\test_carspotlourd\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Id": "C:\\MAIN\\BTS\\App\\Carspot_Lourd\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Main\\All\\Cour\\BTS\\test_carspotlourd\\wwwroot\\css\\site.css",
+      "Id": "C:\\MAIN\\BTS\\App\\Carspot_Lourd\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Main\\All\\Cour\\BTS\\test_carspotlourd\\wwwroot\\favicon.png",
+      "Id": "C:\\MAIN\\BTS\\App\\Carspot_Lourd\\wwwroot\\favicon.png",
       "PackagePath": "staticwebassets\\favicon.png"
     },
     {
-      "Id": "C:\\Main\\All\\Cour\\BTS\\test_carspotlourd\\wwwroot\\index.html",
+      "Id": "C:\\MAIN\\BTS\\App\\Carspot_Lourd\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
     },
     {

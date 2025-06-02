@@ -1,0 +1,49 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\MAIN\\BTS\\App\\Carspot_Lourd\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\MAIN\\BTS\\App\\Carspot_Lourd\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\MAIN\\BTS\\App\\Carspot_Lourd\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\MAIN\\BTS\\App\\Carspot_Lourd\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\MAIN\\BTS\\App\\Carspot_Lourd\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\MAIN\\BTS\\App\\Carspot_Lourd\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Release\\net8.0-maccatalyst\\staticwebassets\\msbuild.CarspotLourd.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0-maccatalyst\\staticwebassets\\msbuild.CarspotLourd.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0-maccatalyst\\staticwebassets\\msbuild.build.CarspotLourd.props",
+      "PackagePath": "build\\CarspotLourd.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0-maccatalyst\\staticwebassets\\msbuild.buildMultiTargeting.CarspotLourd.props",
+      "PackagePath": "buildMultiTargeting\\CarspotLourd.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0-maccatalyst\\staticwebassets\\msbuild.buildTransitive.CarspotLourd.props",
+      "PackagePath": "buildTransitive\\CarspotLourd.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

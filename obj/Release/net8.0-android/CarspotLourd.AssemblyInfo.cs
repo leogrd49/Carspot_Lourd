@@ -14,12 +14,12 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CarspotLourd")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+8914d190e840ddaedef22c53cc8da83cb9f90751")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+aaf78360dbe3db82f7d4cea11d660dfbcbecf9b2")]
 [assembly: System.Reflection.AssemblyProductAttribute("CarspotLourd")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CarspotLourd")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 [assembly: System.Runtime.Versioning.TargetPlatformAttribute("Android34.0")]
-[assembly: System.Runtime.Versioning.SupportedOSPlatformAttribute("Android24.0")]
+[assembly: System.Runtime.Versioning.SupportedOSPlatformAttribute("Android21.0")]
 
 // Généré par la classe MSBuild WriteCodeFragment.
 
